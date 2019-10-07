@@ -1,0 +1,42 @@
+/* 
+ * Lora (https://fonts.google.com/specimen/Lora)
+ */
+
+@font-face {
+  font-family: "Lora";
+  src: url("/assets/fonts/Lora/Lora-Regular.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Lora";
+  src: url("/assets/fonts/Lora/Lora-Italic.ttf") format("ttf");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Lora";
+  src: url("/assets/fonts/Lora/Lora-Bold.ttf") format("ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Lora";
+  src: url("/assets/fonts/Lora/Lora-BoldItalic.ttf") format("ttf");
+  font-style: italic;
+  font-weight: 700;
+}
+
+/* 
+ * Oswald (https://fonts.google.com/specimen/Oswald)
+ */
+
+@font-face {
+  font-family: "Oswald";
+  src: url("/assets/fonts/Oswald/static/Oswald-Regular.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Oswald";
+  src: url("/assets/fonts/Oswald/static/Oswald-Bold.ttf") format("ttf");
+  font-weight: 700;
+}

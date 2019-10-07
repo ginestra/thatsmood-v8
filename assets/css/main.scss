@@ -1,0 +1,191 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+@import "fonts";
+
+/* Global */
+
+.big {
+    font-size: 2em;
+    line-height: 2;
+}
+
+.small {
+    font-size: .875em;
+}
+
+.shout {
+    margin: 0 auto;
+    max-width: 450px;
+}
+
+.site-header {
+    text-align: center;
+}
+
+.site-header,
+.site-footer {
+    background: white;
+}
+
+.statement {
+    display: block;
+    text-align: center;
+}
+
+/* Cards */
+
+// .grid-container {
+//     display: grid;
+//     grid-gap: 15px 10px;
+//     grid-template-columns: 1fr 1fr;
+// }
+
+// .item {
+//     grid-column: 1 2;
+// }
+
+/* Headings */
+
+h2 {
+    line-height: 1.25;
+}
+
+/* Links */
+
+.active {
+    border-bottom: 5px solid $grey-color-light;
+}
+
+/* Lists */
+
+ul {
+    margin: 1rem 2rem;
+}
+
+.tags {
+    list-style: none;
+    margin: 0;
+
+    li {
+        background: $accent-color;
+        border-radius: 4px;
+        display: inline-block;
+        font-size: 16px;
+        padding: 4px 8px;
+    }
+}
+
+/* Header */
+
+header,
+footer {
+    a {
+        text-decoration: none;
+    }
+}
+
+.site-title {
+    display: block;
+}
+
+/* Navigation */
+
+nav {
+    border-top: 1px solid $grey-color-light;
+    display: block;
+    text-align: center;
+
+    a {
+        text-decoration: none;
+    }
+}
+
+/* Main */
+
+article {
+    line-height: 2 !important;
+}
+
+.post-link {
+    color: $neutral-color !important;
+    text-decoration: none;
+
+    svg {
+        fill: $neutral-color;
+        width: 18px;
+    }
+}
+
+.post-list {
+    li {
+        border-top: 1px solid $grey-color-light;
+        padding-top: 8px;
+    }
+}
+
+.post-meta {
+    svg {
+        fill: $grey-color;
+        margin-right: 8px;
+        width: 12px;
+    }
+}
+
+/* Footer */
+
+/* Logo */
+
+.dot {
+    fill: $grey-color;
+}
+
+.gi {
+    fill: $grey-color-dark;
+}
+
+.logo {
+    background: $accent-color;
+    border: 5px solid $grey-color-light;
+    border-radius: 50%;
+    height: 100px;
+    margin: 1rem auto 0;
+    width: 100px;
+
+    svg {
+        margin-top: 10%;
+        max-height: 80%;
+    }
+}
+
+/* Buttons */
+
+button,
+.button {
+    background: lighten($neutral-color, 55%);
+    border-radius: 2px;
+    color: $neutral-color !important;
+    padding: 4px 8px;
+
+    text-decoration: none;
+
+    &:hover {
+        background: $neutral-color;
+        color: white !important;
+        text-decoration: none;
+    }
+}
+
+/* Media queries */
+
+// @media screen and (max-width: 640px) {
+//     .grid-container {
+//         grid-template-columns: 1fr;
+//     }
+
+//     .item {
+//         grid-column: 1;
+//     }
+// }

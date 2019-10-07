@@ -1,0 +1,13 @@
+current directory: /Users/ginestra/Documents/personal/thatsmood-v8/.bundle/plugin/gems/json-2.2.0/ext/json
+/Users/ginestra/.rvm/rubies/ruby-2.4.1/bin/ruby -I /Users/ginestra/.rvm/rubies/ruby-2.4.1/lib/ruby/site_ruby/2.4.0 -r ./siteconf20191005-9434-lay7w2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ginestra/Documents/personal/thatsmood-v8/.bundle/plugin/gems/json-2.2.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/ginestra/Documents/personal/thatsmood-v8/.bundle/plugin/gems/json-2.2.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/ginestra/Documents/personal/thatsmood-v8/.bundle/plugin/gems/json-2.2.0/ext/json
+make "DESTDIR=" install
