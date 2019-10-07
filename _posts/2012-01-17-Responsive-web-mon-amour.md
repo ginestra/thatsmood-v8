@@ -2,7 +2,7 @@
 layout: post
 title:  "Responsive web, mon amour"
 date:   2012-01-17
-categories: responsive web
+categories: responsive-web
 tags: [responsive web, media queries]
 ---
 _One for all and all for one... stylesheet!_
