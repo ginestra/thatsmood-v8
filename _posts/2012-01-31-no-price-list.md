@@ -2,7 +2,7 @@
 layout: post
 title:  "No, there is no price list"
 date:   2012-01-31
-categories: responsive web
+categories: project-management
 tags: [PR, clients, project management]
 ---
 

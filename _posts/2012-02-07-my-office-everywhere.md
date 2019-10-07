@@ -2,7 +2,7 @@
 layout: post
 title:  "My office is everywhere"
 date:   2012-02-07
-categories: [remote working, on the move]
+categories: [remote-working, on-the-move]
 tags: [PR, clients, project management]
 ---
 
