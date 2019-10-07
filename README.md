@@ -26,5 +26,5 @@ All content from the old site will be transferred.
 
 ## Run locally
 
-* Run in the terminal `bundle exec jekyll serve --watch --incremental` (the flags `--watch` and `--incremental` are optional, they are useful if editing the project)
+* Run in the terminal `bundle exec jekyll serve --watch` (the flag `--watch` is optional, useful to regenerate when applying changes)
 * The site is now locally accessible at `http://localhost:4000/`
