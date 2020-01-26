@@ -22,10 +22,6 @@
     <p class="small">I'm a Senior UI/UX Designer</p>
     {%- endif -%}
 
-    <p>page.url = {{ page.url }}</p>
-    <p>page.baseurl = {{ page.baseurl }}</p>
-    <p>site.baseurl = {{ site.baseurl }}</p>
-
     {%- if page_paths -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger">
@@ -39,7 +35,7 @@
         </label>
 
         <div class="trigger">
-          <a class="page-link{% if page.url == '{{ site.baseurl }}' %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+          <a class="page-link{% if page.url == '/' %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
