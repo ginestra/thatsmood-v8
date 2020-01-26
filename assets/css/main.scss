@@ -74,7 +74,7 @@ h3,
 
 /* Images */
 
-article {
+article {    
     img {
         border: 3px solid $grey-color-light;
     }
@@ -146,6 +146,25 @@ article {
     line-height: 2 !important;
 }
 
+article,
+.home {
+    a {
+        border-bottom: 5px solid lighten($complementary-color, 40%);
+        padding-left: 4px;
+        padding-right: 4px;
+        text-decoration: none;
+
+        &:hover {
+            background: lighten($complementary-color, 40%);
+            text-decoration: none;
+        }
+
+        &:visited {
+            border-bottom: 5px solid lighten($accent-color, 20%);            
+        }
+    }
+}
+
 .page-heading,
 .post-title {
     font-size: 2.25rem;
@@ -205,6 +224,97 @@ article {
     svg {
         margin-top: 10%;
         max-height: 80%;
+    }
+}
+
+
+/* Bar visualization */
+
+.bar-viz {
+    font-size: .875rem;
+
+    .bar {
+        background: white;
+        border-bottom: 1px solid $grey-color-light;
+        display: block;
+        height: 16px;
+        margin-top: 3px;
+        position: relative;
+        width: 100%;
+    }
+
+    dd,
+    dt {
+        display: inline-block;
+        height: 16px;
+        line-height: 16px;
+        margin: 0;
+        padding: 0;
+    }
+
+    dd {
+        width: 80%;
+    }
+
+    dt {
+        border-bottom: 1px solid $grey-color-light;
+        width: 15%;
+    }
+
+    li {
+        line-height: 7px;
+        list-style-type: none;
+        margin: 0;
+    }
+
+    .value {
+        background: $accent-color;
+        font-size: .75rem;
+        height: 16px;
+        left: 0;
+        line-height: 16px;
+        padding-left: 4px;
+        padding-right: 4px;
+        position: absolute;
+        top: 0;
+
+        &.agile,
+        &.bootstrap {
+            width: 70%;
+        }
+
+        &.css,
+        &.foundation,
+        &.jekyll {
+            width: 75%;
+        }
+
+        &.django,
+        &.python {
+            width: 35%;
+        }
+
+        &.html,
+        &.wp {
+            width: 80%;
+        }
+
+        &.js {
+            width: 50%;
+        }
+
+        &.kotlin,
+        &.nlp {
+            width: 30%;
+        }
+
+        &.ml {
+            width: 25%;
+        }
+
+        &.secondary {
+            background: lighten($brand-color, 60%);
+        }
     }
 }
 

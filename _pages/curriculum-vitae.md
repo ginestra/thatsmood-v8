@@ -11,7 +11,38 @@ permalink: /curriculum-vitae/
 
 ## Skillset
 
-[Visualisation to come]
+<div class="bar-viz">
+    <dl>
+        <dt>HTML</dt>
+        <dd><span class="bar"><span class="value html">80/100</span></span></dd>
+        <dt>(S)CSS</dt>
+        <dd><span class="bar"><span class="value css">75/100</span></span></dd>
+        <dt>JS</dt>
+        <dd><span class="bar"><span class="value js">50/100</span></span></dd>
+        <dt>Python</dt>
+        <dd><span class="bar"><span class="value python">35/100</span></span></dd>
+        <dt>Kotlin</dt>
+        <dd><span class="bar"><span class="value kotlin">30/100</span></span></dd>
+    </dl>
+    <dl>
+        <dt>Agile</dt>
+        <dd><span class="bar"><span class="value secondary agile">70/100</span></span></dd>
+        <dt>Bootstrap</dt>
+        <dd><span class="bar"><span class="value secondary bootstrap">70/100</span></span></dd>
+        <dt>Django</dt>
+        <dd><span class="bar"><span class="value secondary django">35/100</span></span></dd>
+        <dt>Foundation</dt>
+        <dd><span class="bar"><span class="value secondary foundation">75/100</span></span></dd>
+        <dt>Jekyll</dt>
+        <dd><span class="bar"><span class="value secondary jekyll">75/100</span></span></dd>
+        <dt>ML</dt>
+        <dd><span class="bar"><span class="value secondary ml">25/100</span></span></dd>
+        <dt>NLP</dt>
+        <dd><span class="bar"><span class="value secondary nlp">30/100</span></span></dd>
+        <dt>Wordpress</dt>
+        <dd><span class="bar"><span class="value secondary wp">80/100</span></span></dd>
+    </dl>
+</div>
 
 ## Experience
 
