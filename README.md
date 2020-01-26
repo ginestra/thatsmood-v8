@@ -1,6 +1,11 @@
 # That's Mood v.8
 Version 8 of the site thatsmood.com
 
+## Release 0.1
+* Main templates
+* Basic styling
+* First release
+
 October 2019
 
 ## About
