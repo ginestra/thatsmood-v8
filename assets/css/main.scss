@@ -203,6 +203,16 @@ article,
 
 /* Footer */
 
+footer {
+    line-height: 1.5;
+
+    li,
+    ul {
+        line-height: 1;
+        margin: 0;
+    }
+}
+
 /* Logo */
 
 .dot {
