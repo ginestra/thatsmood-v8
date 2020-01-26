@@ -35,7 +35,8 @@ layout: home
                 <li>reading</li>
                 <li>writing</li>
                 <li>playing music</li>
-                <li><small>I'd like to sing, but I'm terrible at it</small></li>
+                <li>the number 17</li>
+                <li><small>I like to sing, but I'm terrible at it</small></li>
             </ul>
         </div>
     </div>
