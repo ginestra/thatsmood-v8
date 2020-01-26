@@ -1,6 +1,6 @@
 <header class="site-header" role="banner">
     <div class="logo">
-      <a href="{{ baseurl }}" title="homepage">
+      <a href="{{ site.baseurl }}/" title="homepage">
         <svg version="1.1" id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 315 400" style="enable-background:new 0 0 315 400;" xml:space="preserve">
         <g>
           <path class="gi" d="M279.6,116.8H267c-5.9,0-10.1,4-10.1,9.6V229c0,13.9-10.3,25.6-24.1,27.3H82.1C68.3,254.6,58,242.9,58,229
@@ -17,10 +17,14 @@
 
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ baseurl }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ site.baseurl }}/">{{ site.title | escape }}</a>
     {%- if page.url != "/" -%}
     <p class="small">I'm a Senior UI/UX Designer</p>
     {%- endif -%}
+
+    <p>page.url = {{ page.url }}</p>
+    <p>page.baseurl = {{ page.baseurl }}</p>
+    <p>site.baseurl = {{ site.baseurl }}</p>
 
     {%- if page_paths -%}
       <nav class="site-nav">
@@ -35,7 +39,7 @@
         </label>
 
         <div class="trigger">
-          <a class="page-link{% if page.url == {{ baseurl }} %} active{% endif %}" href="{{ baseurl }}">Home</a>
+          <a class="page-link{% if page.url == '{{ site.baseurl }}' %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
