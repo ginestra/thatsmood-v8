@@ -2,6 +2,7 @@
 Version 8 of the site thatsmood.com
 
 ## Release 0.2
+* Updated content
 * Added weight to main nav
 * Ordered main by weight
 * Hide pages from main nav (remove weight)
