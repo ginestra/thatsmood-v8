@@ -27,7 +27,18 @@ layout: home
                 <li>coding</li>
                 <li>testing</li>
             </ul>
-            <h3>Also</h3>
+            <h3>And learning about (A-Z)</h3>
+            <ul class="tags">
+                <li>Accessibility</li>
+                <li>Machine learning</li>
+                <li>Natural language processing</li>
+                <li>Python</li>
+                <li>Statistics</li>
+                <li>User experience</li>
+                <li>User interaction</li>
+                <li>XR (Immersive experience)</li>
+            </ul>
+            <h3>Also like</h3>
             <ul>
                 <li>travelling</li>
                 <li>basketball</li>
