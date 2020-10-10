@@ -1,6 +1,17 @@
 # That's Mood v.8
 Version 8 of the site thatsmood.com
 
+## Release 0.2
+* Added weight to main nav
+* Ordered main by weight
+* Hide pages from main nav (remove weight)
+* Added accessibility statement
+* Added PDF CV
+* Upgrade Jekyll to 4.1.1
+* Upgraded Kramdown to 2.3.0 to fix vulnerability
+
+10 October 2020
+
 ## Release 0.1
 * Main templates
 * Basic styling
