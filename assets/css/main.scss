@@ -53,6 +53,11 @@ p {
 
 /* Headings */
 
+h1, h2, h3,
+h4, h5, h6 {
+    font-weight: 700;
+}
+
 h1, h2, h3 {
     line-height: 1.25;
     margin: 1rem 0 .25rem;
@@ -343,6 +348,16 @@ button,
         background: $neutral-color;
         color: white !important;
         text-decoration: none;
+    }
+
+    &.dark {
+        background: $neutral-color;
+        color: white !important;
+
+        &:hover {
+            background: lighten($neutral-color, 55%);
+            color: $neutral-color !important;
+        }
     }
 }
 
