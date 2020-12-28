@@ -21,4 +21,4 @@ Networking to me is the mean to increase the chance for those moments. Drastical
 
 **So far, it has worked.**
 
-I recently became part of the [London Web Standards](https://twitter.com/webstandards) group, a bunch of pretty amazing people who organises events focusing on mostly web-related topics. I’m enjoying very much my role as co-organiser and I look forwards to see how it evolves and what I learn from this experience.
+I recently became part of the [London Web Standards](//twitter.com/webstandards) group, a bunch of pretty amazing people who organises events focusing on mostly web-related topics. I’m enjoying very much my role as co-organiser and I look forwards to see how it evolves and what I learn from this experience.
