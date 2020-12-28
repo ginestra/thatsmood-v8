@@ -15,7 +15,7 @@ This website is a personal website. I care about accessibility and want the site
 
 English is not my first language, but I attempted to make the website text as simple as possible to understand.
 
-[AbilityNet](https://mcmw.abilitynet.org.uk/) has advice on making your device easier to use if you have a disability.
+[AbilityNet](//mcmw.abilitynet.org.uk/) has advice on making your device easier to use if you have a disability.
 
 ### How accessible this website is
 
@@ -29,7 +29,7 @@ I am always looking to improve the accessibility of this website. If you find an
 
 I will try to fix any possible issue and/or provide the information in alternative forms.
 
-Ping me on Twitter [@ginez_17](https://twitter.com/ginez_17)
+Ping me on Twitter [@ginez_17](//twitter.com/ginez_17)
 
 ### What I am doing to improve accessibility
 
