@@ -54,9 +54,9 @@ Use TODO while prototyping (and remove it as soon as it’s done!)
 
 <h2>List of interesting articles on the matter</h2>
 <ul>
-    <li><a href="http://www.devtopics.com/13-tips-to-comment-your-code/">13 Tips to Comment Your Code</a></li>
-    <li>And here is the original… if you fancy some Spanish <a href="http://www.variablenotfound.com/2007/12/13-consejos-para-comentar-tu-cdigo.html">13 Consejos para comentar tu c&oacute;digo</a></li>
-    <li><a href="http://apdevblog.com/comments-in-code/">Don’t comment your code!</a></li>
-    <li><a href="http://codeutopia.net/blog/2009/10/15/is-commenting-your-code-useless/">Is commenting your code useless?</a></li>
+    <li><a href="//www.devtopics.com/13-tips-to-comment-your-code/">13 Tips to Comment Your Code</a></li>
+    <li>And here is the original… if you fancy some Spanish <a href="//www.variablenotfound.com/2007/12/13-consejos-para-comentar-tu-cdigo.html">13 Consejos para comentar tu c&oacute;digo</a></li>
+    <li><a href="//apdevblog.com/comments-in-code/">Don’t comment your code!</a></li>
+    <li><a href="//codeutopia.net/blog/2009/10/15/is-commenting-your-code-useless/">Is commenting your code useless?</a></li>
 </ul>
-<p>Oh and happy <a href="http://en.wikipedia.org/wiki/Valentine%27s_Day">Saint Valentine’s Day</a> to those who celebrate it.</p>
+<p>Oh and happy <a href="//en.wikipedia.org/wiki/Valentine%27s_Day">Saint Valentine’s Day</a> to those who celebrate it.</p>

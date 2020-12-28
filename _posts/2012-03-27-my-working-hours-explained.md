@@ -7,7 +7,7 @@ tags: [self employed, data]
 ---
 _How much time do I spend on my actual web developer job?_
 
-![Pie chart of my working hours](/assets/images/pie-chart.png)
+![Pie chart of my working hours]({{site.baseurl}}/assets/images/pie-chart.png)
 <p class="caption">Pie charts of my working hours</p>
 
 I’ve spent the last three months picking random normal working days and noting the amount of time I would spend on different tasks.

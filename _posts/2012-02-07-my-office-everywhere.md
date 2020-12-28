@@ -10,7 +10,7 @@ _But a working internet connection is not._
 
 Last Summer was my best ever in England. I know many people would tell you that July was miserable and it was raining non-stop, but the thing is, I wasn’t here in July, I came back in August and it wasn’t bad at all. It was warm, hot, sun shining all day, a lovely breeze to cool you off, no afternoon showers to ruin your cycling to work, etc. So I thought: ‘I should really go to the park (cross the street, the park is that far) and work from there’.
 
-![My Summer office](/assets/images/shot_1317304284623.jpg)
+![My Summer office]({{site.baseurl}}/assets/images/shot_1317304284623.jpg)
 <p class="caption">My Summer Office</p>
 
 I picked up my laptop, my notebook (luckily I still have and use one), a pen, my phone and a beach towel to sit on the grass. Lovely. I was all happy and smiley.
