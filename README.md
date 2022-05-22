@@ -9,6 +9,8 @@ Personal website of creative web designer Ginestra Ferraro.
 * Added missing links in the Footer
 * Updated Education in CV section
 
+22 May 2022
+
 ## Release 0.2
 * Updated content
 * Added weight to main nav
