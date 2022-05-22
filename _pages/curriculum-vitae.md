@@ -132,6 +132,14 @@ I regularly attend meet-ups to keep my finger on the tech industry's pulse.
     <li>XR (Immersive experience)</li>
 </ul>
 
+### 2022 User Experience & Interaction Design for AR/VR/MR/XR
+<div class="post-meta">
+    <p>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0z"/></svg> University of Michigan through Coursera<br>
+        <em>an online non-credit course</em>
+    </p>
+</div>
+
 ### 2018 MSc Computer Science
 <div class="post-meta">
     <p>
