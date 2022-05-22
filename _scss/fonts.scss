@@ -3,27 +3,11 @@
  */
 
 @font-face {
-  font-family: "Lora";
-  src: url("/assets/fonts/Lora/Lora-Regular.ttf") format("ttf");
-}
-
-@font-face {
-  font-family: "Lora";
-  src: url("/assets/fonts/Lora/Lora-Italic.ttf") format("ttf");
-  font-style: italic;
-}
-
-@font-face {
-  font-family: "Lora";
-  src: url("/assets/fonts/Lora/Lora-Bold.ttf") format("ttf");
-  font-weight: 700;
-}
-
-@font-face {
-  font-family: "Lora";
-  src: url("/assets/fonts/Lora/Lora-BoldItalic.ttf") format("ttf");
-  font-style: italic;
-  font-weight: 700;
+  font-family: 'Lora';
+  src: url('/assets/fonts/Lora/Lora-VariableFont_wght.ttf') format('woff2-variations');
+  font-weight: 125 950;
+  font-stretch: 75% 125%;
+  font-style: oblique 0deg 20deg;
 }
 
 /* 
