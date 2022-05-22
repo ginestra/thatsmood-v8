@@ -1,6 +1,14 @@
 # That's Mood v.8
 Version 8 of the site thatsmood.com
 
+Personal website of creative web designer Ginestra Ferraro.
+
+## Release 0.3
+* Fixed baseurl and url issue
+* Replaced old font with variable font
+* Added missing links in the Footer
+* Updated Education in CV section
+
 ## Release 0.2
 * Updated content
 * Added weight to main nav
