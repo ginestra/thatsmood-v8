@@ -7,7 +7,7 @@ weight: 4
 ---
 
 <small>_CV:_ Curriculum Vitae, also known as _resum&eacute;_ in the USA.</small>
-<a class="button dark" href="{{ site.baseurl }}assets/downloads/cv-gferraro-2020-web.pdf">Download CV (PDF 104kb)</a>
+<a class="button dark" href="{{ site.baseurl }}assets/downloads/gferraro-cv-no-email.pdf">Download CV (PDF 107kb)</a>
 
 **The bullet point version**
 
