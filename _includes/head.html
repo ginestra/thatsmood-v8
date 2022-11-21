@@ -5,15 +5,12 @@
   <!-- 
   <meta name="author" content="Ginestra Ferraro, UI/UX Designer">
   <meta name="description" content="{{ site.description }}">
-  <meta property="og:image" content="{{ 'assets/images/thatsmood-card.png' | relative_url }}">
   <meta property="og:description" content="{{ site.description }}">
   <meta property="og:title" content="{{ site.title }}">
   -->
   {%- seo -%}
+  <meta property="og:image" content="{{ 'assets/images/thatsmood-card.png' | relative_url }}">
   <link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}">
   {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
-  {%- endif -%}
   <link rel="shortcut icon" href="{{ 'assets/images/gi-favicon.png' | relative_url }}" type="image/x-icon">
 </head>
