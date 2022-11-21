@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+description: "My curriculum is a list of skills, experiences and a little bit of myself."
 custom_title: Curriculum Vitae
 permalink: /curriculum-vitae/
 weight: 4

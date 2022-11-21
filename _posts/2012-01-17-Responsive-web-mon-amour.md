@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Responsive web, mon amour"
+description: "A 2012 account on my approach to responsive web design. Old, inaccurate, but the heart is in the right place."
 date:   2012-01-17
 categories: responsive-web
 tags: [responsive web, media queries]

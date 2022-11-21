@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Working from home"
+description: "Makes me read less paper books."
 date:   2012-03-13
 categories: [remote-working]
 tags: [remote working, reading, books]

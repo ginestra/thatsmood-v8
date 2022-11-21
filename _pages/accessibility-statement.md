@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Accessibility
+description: "The accessibility statement for thatsmood.com. I keep updated to make sure the site is as accessible as possible."
 custom_title: Accessibility statement for That's Mood
 permalink: /accessibility-statement/
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "No, there is no price list"
+description: "A website is not a bottle of wine, it usually doesn’t age well."
 date:   2012-01-31
 categories: project-management
 tags: [PR, clients, project management]

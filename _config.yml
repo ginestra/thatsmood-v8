@@ -33,6 +33,9 @@ author_name: Ginestra Ferraro
 github_username:  ginestra
 linkedin_username:  ginestraferraro
 twitter_username: ginez_17
+mastodon:
+  username: ginez_17
+  instance: social.mastodon
 show_excerpts: true
 
 # Build settings

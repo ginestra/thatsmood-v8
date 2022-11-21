@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Accessibility. Do you care?"
+description: "I do, as long as we are talking about the same thing."
 date:   2012-02-28
 categories: [accessibility]
 tags: [accessibility, a11y]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "One platform to rule them all. (Not really)"
+description: "Is there an off-the-shelf app that can do it all for you?"
 date:   2015-01-14
 categories: [tools, platform]
 tags: [tools, platform, framework]
