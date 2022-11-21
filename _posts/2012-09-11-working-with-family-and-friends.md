@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Why working with family and friends can be... difficult"
+description: "More difficult than working with other clients."
 date:   2012-09-11
 categories: clients
 tags: [clients, friends, family]

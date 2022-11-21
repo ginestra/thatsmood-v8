@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Reporting from MEX 2013"
+description: "My accounts of attending MEX 2013"
 date:   2013-11-25
 categories: [ux, mex]
 tags: [ux, events, conferences, mex]

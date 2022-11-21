@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The importance of networking"
+description: "networking is not my strongest skill"
 date:   2013-02-19
 categories: [networking]
 tags: [networking, events, london web standards]

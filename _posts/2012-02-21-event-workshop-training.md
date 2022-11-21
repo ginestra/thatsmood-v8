@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Event, workshop, or training course?"
+decsription: "Which one would you pick if you had to choose?"
 date:   2012-02-21
 categories: [events, workshop, training]
 tags: [event, workshop, training]

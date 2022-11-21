@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "No comment(s)...?"
+description: "// Why comment lines in your code are so important, or are they?"
 date:   2012-02-14
 categories: [coding, css]
 tags: [coding, css, comments]

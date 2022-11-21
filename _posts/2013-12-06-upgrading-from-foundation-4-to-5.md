@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Upgrading from Foundation 4 to 5"
+description: "Some tips and account of my personal experience upgrading Foundation 4 to v. 5"
 date:   2013-12-06
 categories: [foundation, upgrade]
 tags: [foundation, upgrade, development]

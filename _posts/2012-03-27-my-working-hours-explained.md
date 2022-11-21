@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My working hours explained"
+description: "How much time do I spend on my actual web developer job?"
 date:   2012-03-27
 categories: [data]
 tags: [self employed, data]

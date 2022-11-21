@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My office is everywhere"
+description: "But a working internet connection is not."
 date:   2012-02-07
 categories: [remote-working, on-the-move]
 tags: [PR, clients, project management]

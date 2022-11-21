@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The unmissable* events of 2012"
+description: "My wishlist of this year web related events."
 date:   2012-03-6
 categories: [events]
 tags: [events, conferences]
