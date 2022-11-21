@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+description: "UI/UX designer based in London, UK. Views are my own. Portfolio never up to date."
 ---
 
 <div class="shout">
