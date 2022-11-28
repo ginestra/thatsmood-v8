@@ -16,7 +16,7 @@ So, for now, I will add links that might help you find my work online. I might a
 
 Some of the projects I am working/have worked on are present @ [King's Digital Lab > Our work](https://kdl.kcl.ac.uk/our-work/).
 
-Some specific mentions<sup><a href="#note">*</a></sup>:
+Some mentions<sup><a href="#note">*</a></sup>:
 
 ### Layers of Vision - Oct-Nov 2022
 Layers of Vision is an art exhibition that explores the experiences and perspectives of blind and partially sighted (BPS) artists living in a world made for sighted people.
@@ -24,6 +24,12 @@ Layers of Vision is an art exhibition that explores the experiences and perspect
 **Website:** [layersofvision.org](https://layersofvision.org/)
 
 **Contribution:** I implemented the design that was originally created by Praline Design and helped with the accessibility approach and testing from the early stages.
+
+### RSE Conference - Sep 2022
+
+I sometimes speak at conferences.
+
+[UI/UX Design and Software Development: A troubled love story of integration](https://www.youtube.com/watch?v=hyXlcvhgGjA)
 
 ### Critical Modelling - Ongoing
 Data visualisations.
