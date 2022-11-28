@@ -45,4 +45,4 @@ Research project on "The Transfer of Revolutionary Culture between Britain, Fran
 * [Data visualisation design](https://radicaltranslations.org/database/timeline/?page=1&page_size=1000)
 
 <a id="note"></a>
-_<sup>*</sup> The mention is likely to be due to the project being available online, since some of the work I do takes ages to see the light... of the live net._
+<em><sup>*</sup> The mention is likely to be due to the project being available online, since some of the work I do takes ages to see the light... of the live net.</em>
