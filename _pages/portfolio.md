@@ -21,21 +21,21 @@ Some specific mentions<sup><a href="#note">*</a></sup>:
 ### Layers of Vision - Oct-Nov 2022
 Layers of Vision is an art exhibition that explores the experiences and perspectives of blind and partially sighted (BPS) artists living in a world made for sighted people.
 
-**Website:** https://layersofvision.org/
+**Website:** [layersofvision.org](https://layersofvision.org/)
 
 **Contribution:** I implemented the design that was originally created by Praline Design and helped with the accessibility approach and testing from the early stages.
 
 ### Critical Modelling - Ongoing
 Data visualisations.
 
-**Observable notebook:** https://observablehq.com/@jmiguelv/critical-modeling-of-extensive-literary-data-review-sentences-sentiment-analysis?collection=@jmiguelv/critical-modeling-of-extensive-literary-data
+**Observable notebook:** [Review Sentences Sentiment Analysis Visualisations](https://observablehq.com/@jmiguelv/critical-modeling-of-extensive-literary-data-review-sentences-sentiment-analysis?collection=@jmiguelv/critical-modeling-of-extensive-literary-data)
 
 **Contribution**: Concept
 
 ### Radical Translations - Due to be completed early 2023
 Research project on "The Transfer of Revolutionary Culture between Britain, France and Italy (1789-1815)".
 
-**Website:** https://radicaltranslations.org/
+**Website:** [radicaltranslations.org](https://radicaltranslations.org/)
 
 **Contribution**: 
 * UX research: surveys, design workshop, reports.
@@ -45,4 +45,4 @@ Research project on "The Transfer of Revolutionary Culture between Britain, Fran
 * [Data visualisation design](https://radicaltranslations.org/database/timeline/?page=1&page_size=1000)
 
 <a id="note"></a>
-_<sup>*</sup> The mention is likely to be due to the project being available online, since some of the work I do takes ages to see the light... of the live net.
+_<sup>*</sup> The mention is likely to be due to the project being available online, since some of the work I do takes ages to see the light... of the live net._
