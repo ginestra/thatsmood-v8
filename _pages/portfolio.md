@@ -44,5 +44,11 @@ Research project on "The Transfer of Revolutionary Culture between Britain, Fran
 * Accessibility: implementation + testing.
 * [Data visualisation design](https://radicaltranslations.org/database/timeline/?page=1&page_size=1000)
 
+### The state of digital accessibility - April 2021
+
+This is a blog post I wrote to describe the adopted approach to improve accessibility for some _seasoned_ projects and set start embedding accessibility good practices for new and upcoming ones.
+
+[The state of digital accessibility at KDL - The road to a more inclusive web](https://kdl.kcl.ac.uk/blog/state-digital-accessibility-kdl/)
+
 <a id="note"></a>
 <em><sup>*</sup> The mention is likely to be due to the project being available online, since some of the work I do takes ages to see the light... of the live net.</em>
