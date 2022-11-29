@@ -4,6 +4,7 @@
 
 layout: home
 description: "UI/UX designer based in London, UK. Views are my own. Portfolio never up to date."
+title: Home
 ---
 
 <div class="shout">
