@@ -30,7 +30,7 @@ Personal website of creative web designer Ginestra Ferraro.
 * Upgrade Jekyll to 4.1.1
 * Upgraded Kramdown to 2.3.0 to fix vulnerability
 
-10 October 2020
+26 January 2020
 
 ## Release 0.1
 * Main templates
