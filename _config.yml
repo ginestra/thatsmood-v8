@@ -23,7 +23,6 @@ sass:
   style: compressed
 
 title: That's (the) Mood
-# email: gi@thatsmood.com
 # description: UI/UX Designer based in London, UK.
 description: >- # this means to ignore newlines until "baseurl:"
   {{ site.description }} 
