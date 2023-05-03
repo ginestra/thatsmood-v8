@@ -36,7 +36,7 @@ linkedin_username:  ginestraferraro
 twitter_username: ginez_17
 mastodon:
   username: ginez_17
-  instance: social.mastodon
+  instance: mastodon.social
 show_excerpts: true
 
 # Build settings
