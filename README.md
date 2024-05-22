@@ -3,6 +3,10 @@ Version 8 of the site thatsmood.com
 
 Personal website of creative web designer Ginestra Ferraro.
 
+22 May 2024
+## Release 0.4.1
+* Updated CV download
+
 29 November 2022
 
 ## Release 0.4
